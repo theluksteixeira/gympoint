@@ -15,7 +15,6 @@ Front-end
 - Node.js [Node.js v10.16](https://nodejs.org/)
 - Yarn [Yarn v1.13]
 - Google Chrome Browser [Google]
-- Back-end Gympoint [Back-end-gympoint]
 
 ## Instruções
 
