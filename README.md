@@ -1,4 +1,4 @@
-Desafio Final Bootcamp Rocketseat
+Desafio Final Bootcamp Rocketseat - Aplicação completa (Backend, Frontend e Mobile) para gerenciamento de academias.
 
 <h1 align="center">
 <img src="https://github.com/thelukscolor/gympoint/blob/master/gympoint-frontend/src/assets/logo.png">
@@ -7,7 +7,8 @@ Desafio Final Bootcamp Rocketseat
 GoStack Bootcamp <a href="https://rocketseat.com.br" target="__blank">Rocketseat</a>
 </h3>
 
-Front-end
+<h1>Instalação</h1>
+<p>ATENÇÃO: Para rodar a aplicação é necessário a instalação do Mysql.</p>
 
 ## Pré requisitos
 
