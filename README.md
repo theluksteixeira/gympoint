@@ -17,13 +17,20 @@ GoStack Bootcamp <a href="https://rocketseat.com.br" target="__blank">Rocketseat
 - Yarn [Yarn v1.13]
 - Google Chrome Browser [Google]
 
-## Instruções
+## PASSO A PASSO
 
 ```bash
 # download / Clone o repositório:
 git clone https://github.com/thelukscolor/gympoint.git
 
-# haverá duas pastas o backend e o frontend da aplicação.
+# haverá tres pastas: (gympoint-backend) - (gympoint-frontend) - (gympoint-mobile)
+
+<h1>Vamos iniciar o backend da aplicação</h1>
+
+1) Va na pasta (gympoint-backend) e execute o comando: yarn install
+
+2) ....
+
 
 # instalando as dependências do package.json:
 yarn install
