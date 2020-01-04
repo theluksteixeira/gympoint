@@ -22,10 +22,9 @@ Front-end
 
 ```bash
 # download / Clone o repositório:
-git clone https://github.com/davidfaria/gympoint-frontend.git
+git clone https://github.com/thelukscolor/gympoint.git
 
-# entrar na pasta do projeto
-cd gympoint-frontend
+# haverá duas pastas o backend e o frontend da aplicação.
 
 # instalando as dependências do package.json:
 yarn install
