@@ -2,7 +2,7 @@
 Desafio Final Bootcamp Rocketseat
 
 <h1 align="center">
-<img src="https://raw.githubusercontent.com/davidfaria/gympoint-frontend/master/.github/logo.png">
+<img src="https://github.com/thelukscolor/gympoint/blob/master/gympoint-frontend/src/assets/logo.png">
 </h1>
 <h3 align="center">
 Front-end React.js - GoStack Bootcamp <a href="https://rocketseat.com.br" target="__blank">Rocketseat</a>
