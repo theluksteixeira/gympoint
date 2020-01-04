@@ -19,25 +19,25 @@ GoStack Bootcamp <a href="https://rocketseat.com.br" target="__blank">Rocketseat
 
 ## PASSO A PASSO
 
-# download / Clone o repositório:
+### Clone o repositório:
 git clone https://github.com/thelukscolor/gympoint.git
 
-# haverá tres pastas: (gympoint-backend) - (gympoint-frontend) - (gympoint-mobile)
+obs.: haverá tres pastas: (gympoint-backend) - (gympoint-frontend) - (gympoint-mobile)
 
-<h1>Vamos iniciar o backend da aplicação</h1>
+### Vamos iniciar o backend da aplicação
 
 1) Va na pasta (gympoint-backend) e execute o comando: yarn install
 
 2) ....
 
 
-# instalando as dependências do package.json:
+#### instalando as dependências do package.json:
 yarn install
 
-# criar .env para informar as SUAS variáveis de ambiente
+#### criar .env para informar as SUAS variáveis de ambiente
 cp .env.example .env
 
-# iniciar a aplicação web
+#### iniciar a aplicação web
 yarn start
 ```
 
