@@ -19,7 +19,6 @@ GoStack Bootcamp <a href="https://rocketseat.com.br" target="__blank">Rocketseat
 
 ## PASSO A PASSO
 
-```bash
 # download / Clone o repositório:
 git clone https://github.com/thelukscolor/gympoint.git
 
