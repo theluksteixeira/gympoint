@@ -13,7 +13,10 @@ export function* checkin({ payload }) {
 
     const { student_id } = response.data;
 
-    Alert.alert('Bem-vindo!', 'Checkin efetuado com sucesso!');
+    Alert.alert(
+      'Bem-vindo a GymPOINT a melhor academia da região!',
+      'Checkin efetuado com sucesso!'
+    );
 
     yield put(checkinSuccess(student_id));
   } catch (err) {
