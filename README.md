@@ -15,6 +15,7 @@ GoStack Bootcamp <a href="https://rocketseat.com.br" target="__blank">Rocketseat
 - Git [Git](https://git-scm.com)
 - Node.js [Node.js v10.16](https://nodejs.org/)
 - Yarn [Yarn v1.13]
+- MySQL
 - Google Chrome Browser [Google]
 
 # PASSO A PASSO
