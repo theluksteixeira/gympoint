@@ -89,6 +89,8 @@ App desenvolvido em React Native para o acesso dos alunos onde ele faz o checkin
 
 2) Depois de tdo configurado rode: react-native run-android , pronto se apresentado o projeto no emulador \o/
 
+3) Para usar use o login como "6" que é do students "aluno" criado quando populamos a base.
+
 #### Principais bibliotecas utilizadas
 
 - [React Native](https://github.com/facebook/react-native)
