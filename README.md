@@ -65,6 +65,17 @@ obs.: haverá tres pastas: (gympoint-backend) - (gympoint-frontend) - (gympoint-
 user: admin@gympoint.com
 password: 123456
 ```
+## Principais bibliotecas utilizadas
+
+- [Styled Components](https://www.styled-components.com/)
+- [Date-Fns](https://date-fns.org/)
+- [Yup](https://github.com/jquense/yup)
+- [React Toastfy](https://www.npmjs.com/package/react-toastify)
+- [React Icons](https://react-icons.netlify.com/#/)
+- [React Router Dom](https://reacttraining.com/react-router/web/guides/quick-start)
+- [React Redux](https://github.com/reduxjs/react-redux)
+- [Redux Saga](https://github.com/redux-saga/redux-saga)
+
 
 ## MOBILE (App ANDROID)
 ### Vamos iniciar o frontend da aplicação
