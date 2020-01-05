@@ -34,8 +34,8 @@ routes.delete('/enrollments/:id', EnrollmentController.delete);
 routes.get('/enrollments', EnrollmentController.listAll);
 routes.get('/enrollments/:id', EnrollmentController.listOne);
 
-routes.post('/students/:id/checkins', CheckinController.store);
-routes.get('/students/:id/checkins', CheckinController.listOne);
+routes.post('/students/:id/checkin', CheckinController.store);
+routes.get('/students/:id/checkin', CheckinController.listOne);
 
 routes.get('/help-orders', HelpOrderController.listAll);
 routes.post('/students/:id/help-orders', HelpOrderController.store);
