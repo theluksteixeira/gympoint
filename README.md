@@ -66,11 +66,18 @@ user: admin@gympoint.com
 password: 123456
 ```
 
-# MOBILE
+## MOBILE (App ANDROID)
+### Vamos iniciar o frontend da aplicação
 
 App desenvolvido em React Native para o acesso dos alunos onde ele faz o checkin e envia pedido de auxílio para a academia.
 
-## Principais bibliotecas utilizadas
+1) Va na pasta (gympoint-mobile) e execute o comando: yarn install   obs.: Esse processo demora pois irá baixar diversas dependências, vá tomar um cafezinho :-)
+
+-- Caso ainda não tenha configurado um ambiente android em sua máquina siga esse tutorial [https://facebook.github.io/react-native/docs/getting-started]
+
+2) Depois de tdo configurado rode: react-native run-android , pronto se apresentado o projeto no emulador \o/
+
+#### Principais bibliotecas utilizadas
 
 - [React Native](https://github.com/facebook/react-native)
 - [Axios](https://github.com/axios/axios)
