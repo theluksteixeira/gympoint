@@ -17,33 +17,47 @@ GoStack Bootcamp <a href="https://rocketseat.com.br" target="__blank">Rocketseat
 - Yarn [Yarn v1.13]
 - Google Chrome Browser [Google]
 
-## PASSO A PASSO
+# PASSO A PASSO
 
 ### Clone o repositório:
 git clone https://github.com/thelukscolor/gympoint.git
 
 obs.: haverá tres pastas: (gympoint-backend) - (gympoint-frontend) - (gympoint-mobile)
 
+
+## BACKEND
 ### Vamos iniciar o backend da aplicação
 
 1) Va na pasta (gympoint-backend) e execute o comando: yarn install
 
-2) ....
+2) Haverá um arquivo chamado ".env-sample" duplique o conteúdo desse arquivo em um novo arquivo chamado ".env" e coloque as credenciais do seu ambiente.
+   ex.: cp .env.sample .env
+   
+3) Agora vc precisa criar uma base de dados Mysql por exemplo chamado: gympoint
+
+4) Depois de criado a base de dados iremos executar o comando que irá gerar as tabelas do banco de dados: 
+    yarn sequelize db:migrate
+    
+5) Agora você já tem as tabelas criadas, vamos populá-las com registros de exemplos para facilitar, basta executar o comando abaixo:
+   yarn sequelize db:seed:all
+   
+6) Pronto!! Agora temos nossa base de dados populada facilitando usarmos o sistema posteriormente. 
+
+7) Vamos ligar nosso Backend!!! Execute o comando:  yarn dev  obs.: Nosso backend estará rodando na porta 3333;
 
 
-#### instalando as dependências do package.json:
-yarn install
 
-#### criar .env para informar as SUAS variáveis de ambiente
-cp .env.example .env
+## FRONTEND
+### Vamos iniciar o frontend da aplicação
 
-#### iniciar a aplicação web
-yarn start
-```
+1) Va na pasta (gympoint-frontend) e execute o comando: yarn install
 
-## Teste utilizando o browser.
+2) Haverá um arquivo chamado ".env-sample" duplique o conteúdo desse arquivo em um novo arquivo chamado ".env" e coloque a url do backend. ex.: http://localhost:3333   já vai estar preparado.
+   ex.: cp .env.sample .env
 
-http://localhost:3000
+3) Vamos ligar nosso FrontEnd!!! Execute o comando:  yarn start  Ele deverá abrir na url: http://localhost:3000/  
+
+4) Agora que você viu a tela de login entre com as seguintes credenciais:
 
 ```bash
 
