@@ -8,7 +8,6 @@ GoStack Bootcamp <a href="https://rocketseat.com.br" target="__blank">Rocketseat
 </h3>
 
 <h1>Instalação</h1>
-<p>ATENÇÃO: Para rodar a aplicação é necessário a instalação do Mysql.</p>
 
 ## Pré requisitos
 
